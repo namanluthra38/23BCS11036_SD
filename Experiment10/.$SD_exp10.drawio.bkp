@@ -59,9 +59,6 @@
         <mxCell id="ObuMVqC3MP8B3gxvZeUk-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Write in DB" vertex="1">
           <mxGeometry height="30" width="90" x="800" y="236.2" as="geometry" />
         </mxCell>
-        <mxCell id="24ff4XCoef7fKYfwk861-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10 entries at max" vertex="1">
-          <mxGeometry height="30" width="60" x="940" y="580" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
